@@ -1,0 +1,13 @@
+E:\Skibidi\Skibidi Toilet Beaters\bin\Debug\Skibidi Toilet Beaters.exe
+E:\Skibidi\Skibidi Toilet Beaters\bin\Debug\Skibidi Toilet Beaters.pdb
+E:\Skibidi\Skibidi Toilet Beaters\bin\Debug\Skibidi Toilet Beaters.xml
+E:\Skibidi\Skibidi Toilet Beaters\obj\Debug\Skibidi Toilet Beaters.vbproj.AssemblyReference.cache
+E:\Skibidi\Skibidi Toilet Beaters\obj\Debug\Skibidi_Toilet_Beaters.Form1.resources
+E:\Skibidi\Skibidi Toilet Beaters\obj\Debug\Skibidi_Toilet_Beaters.Resources.resources
+E:\Skibidi\Skibidi Toilet Beaters\obj\Debug\Skibidi_Toilet_Beaters.SKIBIDI.resources
+E:\Skibidi\Skibidi Toilet Beaters\obj\Debug\Skibidi Toilet Beaters.vbproj.GenerateResource.cache
+E:\Skibidi\Skibidi Toilet Beaters\obj\Debug\Skibidi Toilet Beaters.vbproj.CoreCompileInputs.cache
+E:\Skibidi\Skibidi Toilet Beaters\obj\Debug\Skibidi Toilet Beaters.exe
+E:\Skibidi\Skibidi Toilet Beaters\obj\Debug\Skibidi Toilet Beaters.xml
+E:\Skibidi\Skibidi Toilet Beaters\obj\Debug\Skibidi Toilet Beaters.pdb
+E:\Skibidi\Skibidi Toilet Beaters\bin\Debug\Skibidi Toilet Beaters.exe.config
